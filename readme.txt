@@ -28,3 +28,6 @@ A short paper describing the methodology and experimental results
 
 bottlenecks.rar
 COntains the bottleneck files (TXT) of the 500 images in the dataset. Note: Bottleneck files are the vector representation of the images at before the last layer of the Inception model.
+
+features.txt
+COntains the feature vectors of the 500 images in the dataset used in the LDA, SVM, KNN, and MLP classifiers.
