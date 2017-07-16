@@ -25,3 +25,6 @@ This script trains the LDA, SVM-LIN, SVM-RBF, MLP, and KNN classifiers for a set
 
 PAPER.PDF
 A short paper describing the methodology and experimental results
+
+bottlenecks.rar
+COntains the bottleneck files (TXT) of the 500 images in the dataset. Note: Bottleneck files are the vector representation of the images at before the last layer of the Inception model.
